@@ -1,0 +1,9 @@
+{
+  "parse_result": "success",
+  "error_code": 0,
+  "msg_response": {
+    "update": {
+      "url": "youku://play?source=stardetail&vid=XMjkwODc3NjMxMg=="
+    }
+  }
+}
